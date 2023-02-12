@@ -36,12 +36,12 @@ h1 {
 
 #email1 {
     width: 338px;
-    border: solid 1px #ffffff;
+    border: solid 1.5px #ffffff;
 }
 
 #email2 {
     width: 338px;
-    border: solid 1px #ffffff;
+    border: solid 1.5px #ffffff;
 }
 
 .button {
