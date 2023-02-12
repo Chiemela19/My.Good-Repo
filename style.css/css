@@ -1,0 +1,53 @@
+section {
+    background-color: rgb(2, 26, 5) ;
+    border: solid 2px rgb(37, 117, 117);
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px 25px;
+}
+
+.reel {
+    background-color: rgba(171, 239, 204, 0.279);
+    width: 180px;
+    padding: 8px 0px;
+}
+
+.login {
+    background-color: lightslategrey;
+    width: 180px;
+    padding: 8px 0px;
+
+}
+
+h1 {
+    color: #ffffff;
+}
+
+#text1 {
+    background-color: rgb(2, 26, 5);
+    border: solid 1px #ffffff;
+}
+
+#text2 {
+    background-color: rgb(2, 26, 5);
+    border: solid 1px #ffffff;
+}
+
+#email1 {
+    width: 338px;
+    border: solid 1px #ffffff;
+}
+
+#email2 {
+    width: 338px;
+    border: solid 1px #ffffff;
+}
+
+.button {
+    width: 347px;
+    padding: 15px;
+    font-size: 15px;;
+    background-color: rgba(171, 239, 204, 0.279);
+    border-radius: 10px;
+}
